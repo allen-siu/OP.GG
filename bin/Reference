@@ -1,0 +1,9 @@
+Similar Parameters / Variables
+
+id = summonerId
+
+Type of Match:	
+	queue:
+		400 = normal
+		900 = URF
+		420 = ranked solo
